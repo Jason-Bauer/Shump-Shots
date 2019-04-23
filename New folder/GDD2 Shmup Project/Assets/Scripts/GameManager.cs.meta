@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6e691c06a326dc349b968269d39da715
+timeCreated: 1508806943
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - startScreen: {instanceID: 0}
+  - gameOverScreen: {instanceID: 0}
+  - enemies: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - player: {instanceID: 0}
+  - startingBackground: {instanceID: 0}
+  - backgroundPrefab: {fileID: 1281150771518818, guid: 75af345cc0752ce4b8c4f6016ef3aa90,
+      type: 2}
+  - memeBackground: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

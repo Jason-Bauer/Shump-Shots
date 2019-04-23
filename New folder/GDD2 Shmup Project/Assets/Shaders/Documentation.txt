@@ -1,0 +1,2 @@
+Shader found from:
+https://forum.unity.com/threads/making-a-local-pixelation-image-effect-shader.183210/
